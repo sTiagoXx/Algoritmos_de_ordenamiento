@@ -37,7 +37,7 @@ package ejercicios;
 	    }
 
 	    private static double[][] generarSueldos(int cantidad) {
-	        double[][] sueldos = new double[cantidad][3]; // 
+	        double[][] sueldos = new double[cantidad][3];  
 	        for (int i = 0; i < cantidad; i++) {
 	            sueldos[i][0] = 1000 + RANDOM.nextDouble() * 4000; 
 	            sueldos[i][1] = sueldos[i][0] * 0.1;               
