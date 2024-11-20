@@ -1,6 +1,6 @@
 # Algoritmos_de_ordenamiento
 ### Radix sort:
-1. Recibe un arreglo de numeros (sistema octal)
+1. Recibe un arreglo de numeros unidimensional
 2. Busca en el arreglo el numero con mayor numero de digitos
    - dependiendo del numero de digitos es el numero de veces que va a iterar
 Ejemplo: numero con mayor cantidad de digitos "4567", entonces el algoritmo va a iterar 4 veces
